@@ -1,0 +1,4 @@
+*.sv.bak
+run.log
+vsim.wlf
+work
